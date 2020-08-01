@@ -13,6 +13,7 @@
 * [Negotiating on Salary](prior-interview-prep/negotiating-on-salary.md)
 * [The Art of the Follow-up](prior-interview-prep/the-art-of-the-follow-up.md)
 * [Understand Software Industry](prior-interview-prep/your-questions-answered.md)
+* [Software Development Process](prior-interview-prep/software-development-process.md)
 
 ## TECHNICAL INTERVIEW
 
@@ -28,5 +29,4 @@
 * [Software Design Patterns](software-design-patterns.md)
 * [Exploring System Architectures](exploring-system-architectures.md)
 * [Contributing to Open-source](contributing-to-open-source.md)
-* [Software Development Process](software-development-process.md)
 
