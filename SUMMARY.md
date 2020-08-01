@@ -28,4 +28,5 @@
 * [Software Design Patterns](software-design-patterns.md)
 * [Exploring System Architectures](exploring-system-architectures.md)
 * [Contributing to Open-source](contributing-to-open-source.md)
+* [Software Development Process](software-development-process.md)
 
