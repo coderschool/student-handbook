@@ -25,6 +25,6 @@ There are four major areas we want to help students navigate:
 
 1. **Career Exploration** - Provide you key context on how to succeed as a software engineer
 2. **Resume/LinkedIn** - Creating an effective resume and LinkedIn profile
-3. **Applying for Internships** - Sending out your resume and actually applying to companies
+3. **Applying for Jobs**- Sending out your resume and actually applying to companies
 4. **Technical Interviews** - Studying and becoming confident in technical internship interviews
 
